@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MaximumLengthString": {
+      "commandName": "Project",
+      "commandLineArgs": "helloworld"
+    }
+  }
+}
