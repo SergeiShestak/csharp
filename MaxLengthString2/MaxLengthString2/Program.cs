@@ -6,6 +6,10 @@ namespace MaxLengthString2
     {
         static void Main(string[] args)
         {
+            if (args.Length == 0)
+            {
+                Console.WriteLine("Please enter a string as argument");
+            }
             Reader reader = new Reader();
             Counter counter = new Counter();
             Messanger messanger = new Messanger();
