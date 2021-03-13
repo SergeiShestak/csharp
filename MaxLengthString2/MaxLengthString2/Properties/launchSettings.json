@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MaxLengthString2": {
+      "commandName": "Project",
+      "commandLineArgs": "hellooworld"
+    }
+  }
+}
