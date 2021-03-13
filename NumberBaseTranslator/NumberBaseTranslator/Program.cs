@@ -24,7 +24,7 @@ namespace NumberBaseTranslator
             numberToTranslate = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter base for translate from 3 to 20");
             numberBase = Convert.ToInt32(Console.ReadLine());
-            if(3 > numberBase && numberBase > 20)
+            if(numberBase <3 || numberBase > 20)
             {
                 Console.WriteLine("Please enter valid number");
                 numberBase = Convert.ToInt32(Console.ReadLine());
