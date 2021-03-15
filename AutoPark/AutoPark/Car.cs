@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Car : Vehicle
+    class Car : IVehicle
     {
         int maxSpeed;
         private Chassis chassis;

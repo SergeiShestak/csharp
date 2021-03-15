@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Bus : Vehicle
+    class Bus : IVehicle
     {
         int passengerCapacity;
         Chassis chassis;

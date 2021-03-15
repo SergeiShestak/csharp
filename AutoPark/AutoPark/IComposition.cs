@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    interface Composition
+    interface IComposition
     {
         public string getInfo();
     }

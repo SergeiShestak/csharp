@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Chassis : Composition
+    class Chassis : IComposition
     {
         private QuantityWheels wheels;
         private int Id;

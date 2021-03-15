@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Transmission : Composition
+    class Transmission : IComposition
     {
         private TransType type;
         private int numberGearShift;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Scooter : Vehicle
+    class Scooter : IVehicle
     {
         int fuelConsume;
         Chassis chassis;

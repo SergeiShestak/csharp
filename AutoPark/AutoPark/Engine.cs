@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Engine : Composition
+    class Engine : IComposition
     {
         private int power;
         private int volume;

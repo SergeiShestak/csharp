@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    interface Vehicle
+    interface IVehicle
     {
         public void printInfo();
     }

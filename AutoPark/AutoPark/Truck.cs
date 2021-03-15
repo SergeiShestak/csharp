@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AutoPark
 {
-    class Truck : Vehicle
+    class Truck : IVehicle
     {
         int payLoadCapacity;
         Chassis chassis;
