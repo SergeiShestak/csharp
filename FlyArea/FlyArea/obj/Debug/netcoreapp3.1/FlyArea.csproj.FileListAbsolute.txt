@@ -1,0 +1,13 @@
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.exe
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.deps.json
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.runtimeconfig.json
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.runtimeconfig.dev.json
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.dll
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\bin\Debug\netcoreapp3.1\FlyArea.pdb
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.csprojAssemblyReference.cache
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.AssemblyInfoInputs.cache
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.AssemblyInfo.cs
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.dll
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.pdb
+C:\Users\Siarhei\source\repositories\FlyArea\FlyArea\obj\Debug\netcoreapp3.1\FlyArea.genruntimeconfig.cache
