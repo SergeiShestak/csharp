@@ -1,0 +1,13 @@
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.exe
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.deps.json
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.runtimeconfig.json
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.runtimeconfig.dev.json
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.dll
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\bin\Debug\netcoreapp3.1\AutoPark.pdb
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.csprojAssemblyReference.cache
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.AssemblyInfoInputs.cache
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.AssemblyInfo.cs
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.dll
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.pdb
+C:\Users\Siarhei\source\repos\basics-of-dot-net-siarhei\AutoPark\AutoPark\obj\Debug\netcoreapp3.1\AutoPark.genruntimeconfig.cache
